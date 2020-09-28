@@ -6,3 +6,5 @@ Bundling this script with the Virustotal API can be used as antivirus detection 
 ```
 python3 ScanPE.py [pathtolifedir]
 ```
+
+Note: output stored in Malware_Report.xlxs file
